@@ -1,0 +1,6 @@
+Su khac nhau giua stack va queue
+stack(ngan xep):laf 1 cau truc du lieu LIFO(Last In First Out)==> phan tu cuoi cung se duoc lay ra dau tien.
+stack:thuong duoc dung de luu tru hanh dong lich su, hoac thuc hien cac thao tac theo thu tu nguoc lai.
+
+queue(hang cho):la mot cau truc du lieu FIFO(first in first out)==> phan tu dau tien duoc them vao se la phan tu dau tien duoc lay ra.
+queue:thuong duoc su dung trong cac thuat toan tim kiem , xu ly hinh anh, cac tac vu dong bo hoac truyen tin nhan qua mang.
